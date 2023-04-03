@@ -1,0 +1,537 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Register_ado.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Register_ado.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\css\\multiselect.css",
+      "PackagePath": "staticwebassets\\css\\multiselect.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\js\\excel.js",
+      "PackagePath": "staticwebassets\\js\\excel.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\js\\html2canvas.js",
+      "PackagePath": "staticwebassets\\js\\html2canvas.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\js\\modalval.js",
+      "PackagePath": "staticwebassets\\js\\modalval.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\js\\multiselect-dropdown.js",
+      "PackagePath": "staticwebassets\\js\\multiselect-dropdown.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\js\\multiselect.js",
+      "PackagePath": "staticwebassets\\js\\multiselect.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\js\\registerval.js",
+      "PackagePath": "staticwebassets\\js\\registerval.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\js\\screenshot.js",
+      "PackagePath": "staticwebassets\\js\\screenshot.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\.gitignore"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\README.md",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\README.md"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\bower.json"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\dist\\css\\bootstrap-multiselect.css",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\dist\\css\\bootstrap-multiselect.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\dist\\css\\bootstrap-multiselect.min.css",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\dist\\css\\bootstrap-multiselect.min.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\dist\\js\\bootstrap-multiselect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\dist\\js\\bootstrap-multiselect.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\dist\\js\\bootstrap-multiselect.min.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\dist\\js\\bootstrap-multiselect.min.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\dist\\less\\bootstrap-multiselect.less",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\dist\\less\\bootstrap-multiselect.less"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\css\\bootstrap-4.5.2.min.css",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\css\\bootstrap-4.5.2.min.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\css\\bootstrap-example.min.css",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\css\\bootstrap-example.min.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\css\\fontawesome-5.15.1-web\\all.css",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\css\\fontawesome-5.15.1-web\\all.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\css\\fontawesome-5.15.1-web\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\css\\fontawesome-5.15.1-web\\all.min.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\css\\prettify.min.css",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\css\\prettify.min.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\fontawesome-5.15.1-web\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\js\\bootstrap.bundle-4.5.2.min.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\js\\bootstrap.bundle-4.5.2.min.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\js\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\js\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\js\\knockout-3.4.0.debug.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\js\\knockout-3.4.0.debug.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\js\\prettify.min.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\js\\prettify.min.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\js\\require-2.3.5.min.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\js\\require-2.3.5.min.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\docs\\less\\bootstrap-example.less",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\docs\\less\\bootstrap-example.less"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\example.png",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\example.png"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\index.html",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\index.html"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\package.json",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\package.json"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\post.php",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\post.php"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\require.html",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\require.html"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\tests\\SpecRunner.html",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\tests\\SpecRunner.html"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\tests\\karma.conf.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\tests\\karma.conf.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\tests\\lib\\MIT.LICENSE",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\tests\\lib\\MIT.LICENSE"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\tests\\lib\\jasmine-2.4.1\\boot.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\tests\\lib\\jasmine-2.4.1\\boot.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\tests\\lib\\jasmine-2.4.1\\console.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\tests\\lib\\jasmine-2.4.1\\console.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\tests\\lib\\jasmine-2.4.1\\jasmine-html.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\tests\\lib\\jasmine-2.4.1\\jasmine-html.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\tests\\lib\\jasmine-2.4.1\\jasmine.css",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\tests\\lib\\jasmine-2.4.1\\jasmine.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\tests\\lib\\jasmine-2.4.1\\jasmine.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\tests\\lib\\jasmine-2.4.1\\jasmine.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\tests\\lib\\jasmine-2.4.1\\jasmine_favicon.png",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\tests\\lib\\jasmine-2.4.1\\jasmine_favicon.png"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\Bootstrap-Multiselect\\tests\\spec\\bootstrap-multiselect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-Multiselect\\tests\\spec\\bootstrap-multiselect.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap-multiselect1\\css\\bootstrap-multiselect.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-multiselect1\\css\\bootstrap-multiselect.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap-multiselect1\\css\\bootstrap-multiselect.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-multiselect1\\css\\bootstrap-multiselect.min.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap-multiselect1\\js\\bootstrap-multiselect.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-multiselect1\\js\\bootstrap-multiselect.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap-multiselect1\\js\\bootstrap-multiselect.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-multiselect1\\js\\bootstrap-multiselect.min.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Assignments\\Register_ado\\Register_ado\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Register_ado.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Register_ado.props",
+      "PackagePath": "build\\Register_ado.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Register_ado.props",
+      "PackagePath": "buildMultiTargeting\\Register_ado.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Register_ado.props",
+      "PackagePath": "buildTransitive\\Register_ado.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

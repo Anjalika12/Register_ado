@@ -1,0 +1,146 @@
+﻿@*@model Register_ado.Models.Form*@
+<div class="row">
+    <div class="col-4">
+    </div>
+    <div class="col-9">
+        <h2 class="text-info">Register</h2>
+    </div>
+    <div class="col-3">
+        <a asp-action="Create" asp-controller="Form" class="btn btn-info">New Form</a>
+    </div>
+</div>
+<div class="border p-2 m-2">
+    <table id="tblData" class="table table-active table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Hobbies</th>
+                <th>Department</th>
+                <th>Designation</th>
+            </tr>
+        </thead>
+    </table>
+</div>
+
+<div class="modal fade" id="editModal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true" data-bs-keyboard="false" data-bs-backdrop="static">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <a><span class="text-center" style="margin-left:20px;"><font size="+2"><b>Edit Details</b></font></span></a>
+            </div>
+            <div class="modal-body" id="myModal">
+                <form class="form-horizontal" method="post" action="InsertPassportReminderSrvlt?idEmployee=1">
+                    <fieldset id="modal_form">
+                        <!-- Text input-->
+                        <div class="form-group">
+                            <label class="col-md-4 control-label" for="Name">Name</label>
+                            <div class="col-md-6">
+                                <input name="id" id="id" hidden />
+                                <input name="Name" id="name" class="form-control input-md">
+                            </div>
+                            <p id="uname"></p>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-md-4 control-label" for="Email">Email</label>
+                            <div class="col-md-6">
+                                <input name="Email" id="email" class="form-control input-md">
+                            </div>
+                            <p id="uemail"></p>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-md-4 control-label" for="hobbies">Hobbies</label>
+                            <div class="col-md-6 bs-multiselect">
+                                <select id="hobbies1" multiple="multiple">
+                                    <option value="singing">singing</option>
+                                    <option value="dancing">Dancing</option>
+                                    <option value="reading">Reading</option>
+                                    <option value="yoga">Yoga</option>
+                                </select>
+                                <p id="uhobbies"></p>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-md-4 control-label" for="Department">Department</label>
+                            <div class="col-md-6">
+                                <input name="Department" id="department" class="form-control input-md">
+                            </div>
+                            <p id="udep"></p>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-md-4 control-label" for="Designation">Designation</label>
+                            <div class="col-md-6">
+                                <input name="Designation" id="designation" class="form-control input-md">
+                                <p id="udes"></p>
+                            </div>
+
+                            <div class="modal-footer">
+                                <input type="button" value="Update" id="update" class="btn btn-outline-info"/>
+                                <a asp-action="Index" asp-controller="Home" class="btn btn-outline-warning">Cancel</a>
+                                @* <button type="button" class="btn btn-default" data-dismiss="Modal">Cancel</button>
+                                *@
+                            </div>
+                        </div>
+
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<input class="btn btn-info" type="button" value="Capture" onclick="capture()">
+@*<input class="btn btn-info" type='button' id='but_screenshot' value='Take screenshot' onclick='screenshot();'>
+*@
+<br />
+@section Scripts{
+    <script src="~/js/modalval.js"></script>
+    <script src="~/js/screenshot.js"></script>
+    <script src="~/js/excel.js"></script>
+    <script>
+        $(document).ready(function () {
+            var table = $('#tblData').DataTable();
+            $('#tblData tbody').on('click', 'tr', function () {
+                $('#editModal').modal('show');
+  
+                var id = table.row(this).data().id;
+              
+                $.ajax({
+                    type: 'GET',
+                    url: '/Home/updateuser/' + id + '',
+                    success: function (data) {
+                        $('#id').val(data.data[0].id);
+                        $('#name').val(data.data[0].name);
+                        $('#email').val(data.data[0].email);
+                        $('#department').val(data.data[0].department);
+                        $('#designation').val(data.data[0].designation);
+                        //multiselect dropdown
+                   
+                        $("#hobbies1").multiselect({
+                            selectedText: "# of # selected"
+                        });
+                        var selectedOptions = data.data[0].hobbies.split(',');
+                        for (var i = 0; i < selectedOptions.length; i++) {
+                            var optionVal = selectedOptions[i];
+                            $("#hobbies1").find("option[value=" + optionVal + "]").prop("selected", "selected");
+
+                        };
+                        var dataarray = data.data[0].hobbies.split(",");
+                      //  $("#hobbies1").val(dataarray);
+                        $("#hobbies1").multiselect("refresh");
+                    }
+               });
+            });
+        });
+  
+        //$('#editModal').modal({ backdrop: 'static', keyboard: false })
+        //$(document).ready(function () {
+        //    $('#MybtnModalPreventScript').click(function () {
+        //        $('#MybtnModalPreventScript').modal({
+        //        backdrop: 'static',
+        //        keyboard: false
+        //    });
+        //});
+        //});
+   </script>
+}

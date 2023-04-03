@@ -1,0 +1,137 @@
+﻿@model Register_ado.Models.Form
+
+<h1 class="text-info fw-bol text-center">Register</h1>
+<br />
+<br />
+<br />
+<form method="post" name="myform"  id="registration">
+    <div class="he form-group row">
+        <div class="col-4">
+            <label asp-for="Name"></label>
+        </div>
+        <div class="col-4">
+            <input asp-for="Name" id="username" class="form-control btn-outline-info" />
+            <p class="text-danger text-center" id="uname"></p>
+    @*      <span asp-validation-for="Name" class="text-danger"></span>*@
+       </div>
+      
+    </div>
+    <br>
+    <div class="form-group row">
+        <div class="col-4">
+            <label asp-for="Email"></label>
+        </div>
+        <div class="col-4">
+            <input asp-for="Email" id="email" class="form-control btn-outline-info" />
+            <p class="text-danger text-center" id="uemail"></p>
+            <p class="text-danger text-center" id="uemailregex"></p>
+@*           <span asp-validation-for="Email" class="text-danger"></span>
+*@        </div>
+      
+    </div>
+    <br>
+    <div class="form-group row">
+        <div class="col-4">
+        <label>Hobbies:</label>
+        </div>
+        <div class="col-4">
+            <select id="hobbies" asp-for="Hobbieslist" class="form-control mulselect" multiple="multiple" asp-items="@(new SelectList( ViewBag.SelectHobbyList,"Text","Value"))"></select>
+            
+@*            @Html.DropDownListFor(m => m.Hobbies, new SelectList(Model.Hobbieslist, "Value", "Text"), new {@multiple="multiple",@placeholder="Please select country", @class="ddlMultiSlectBox" })
+*@        </div>
+    </div>
+
+    <div class="form-group row">
+        <div class="col-4">
+            <label asp-for="Department"></label>
+        </div>
+        <div class="col-4">
+            <input asp-for="Department" id="dep" class="form-control btn-outline-info" />
+            <p class="text-danger  text-center" id="udep"></p>
+          @*  <span asp-validation-for="Department" class="text-danger"></span>*@
+        </div>
+      
+    </div>
+    <br>
+    <div class="form-group row">
+        <div class="col-4">
+            <label asp-for="Designation"></label>
+        </div>
+        <div class="col-4">
+            <input asp-for="Designation" id="des" class="form-control btn-outline-info" />
+            <p class="text-danger  text-center" id="udes"></p>
+           @* <span asp-validation-for="Designation" class="text-danger"></span>*@
+        </div>
+       
+    </div>
+    <br>
+    <div class="form-group row">
+        <div class="col-4">
+            <label asp-for="Password"></label>
+        </div>
+        <div class="col-4">
+            <input asp-for="Password" id="pass" type="password" class="form-control btn-outline-info" />
+            <p class="text-danger  text-center" id="upass"></p>
+           @* <span asp-validation-for="Password" class="text-danger"></span>*@
+        </div>
+       
+    </div>
+    <br>
+    <div class="form-group row">
+        <div class="col-4">
+            <label asp-for="ConfirmPassword"></label>
+        </div>
+        <div class="col-4">
+            <input asp-for="ConfirmPassword" id="conpass" type="password" class="form-control btn-outline-info" />
+            <p class="text-danger  text-center" id="uconpass"></p>
+          @*  <span asp-validation-for="ConfirmPassword" class="text-danger"></span>*@
+        </div>
+       
+    </div>
+    <br />
+   @* <asp:Button ID="Button1" runat="server" Text="Submit"
+                OnClientClick="return validate();" onclick="Button1_Click" />*@
+    <button class="btn btn-outline-info text-center" onclick="validate()" value="submit"  type="submit">Save</button>
+</form>
+
+@section Scripts{
+    <script src="~/lib/Bootstrap-Multiselect/dist/js/bootstrap-multiselect.js"></script>
+    <link href="~/lib/Bootstrap-Multiselect/dist/css/bootstrap-multiselect.css" rel="stylesheet" />
+    <script src="~/js/registerval.js"></script>
+
+        <script src="~/js/multiselect.js"></script> 
+
+        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*              $('#username').attr('required', 'required');
+    $('#email').attr('required', 'required');
+    $('#des').attr('required', 'required');
+    $('#dep').attr('required', 'required');
+    $('#pass').attr('required', 'required');
+    $('#conpass').attr('required', 'required');*@
